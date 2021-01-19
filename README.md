@@ -4,7 +4,7 @@ Python program for the system tray that lets you easily copy silly names
 This will allow you to have a silly name copied to your clipboard from the taskbar.
 Since I don't have a linux machine, this is made for windows only.
 
-Download the zip file and unzip it wherever you want. Run main.py to start it. Make sure pip is installed *before* running it. If you don't have it, the program will crash. The first time you run it, some terminal windows may pop up. That's just pip installing the modules.
+Download the project as a zip file and unzip it wherever you want. Run main.py to start it. Make sure pip is installed *before* running it. If you don't have it, the program will crash. The first time you run it, some terminal windows may pop up. That's just pip installing the modules.
 
 Next, a menu will pop up on your screen. Fill it out with your name and preferences. When you press save and close, a red circle will appear in the taskbar.
 Click it to get a name copied to your clipboard.
